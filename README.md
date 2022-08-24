@@ -19,3 +19,7 @@ for loops
 Math object
 <br>
 return statements
+
+Project live at:
+
+https://oscar6.github.io/study-material-blackjack-game/
